@@ -1,0 +1,39 @@
+_repo: Historia-de-la-literatura-y-del-arte-dram-tico-en-Espa-a-tomo-IV_37067
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Mier, Eduardo de
+    aliases:
+    - De Mier, Eduardo
+    - Barbery, Eduardo de Mier y
+    birthdate: 1829
+    gutenberg_agent_id: '31718'
+    url: http://www.gutenberg.org/2009/agents/31718
+covers:
+- cover_type: archival
+  image_path: 37067-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Schack, Adolf Friedrich von
+    aliases:
+    - Schack, Adolf Friedrich, Graf von
+    - Von Schack, Adolf Friedrich
+    birthdate: 1815
+    deathdate: 1894
+    gutenberg_agent_id: '31713'
+    url: http://www.gutenberg.org/2009/agents/31713
+    wikipedia: http://en.wikipedia.org/wiki/Adolf_Friedrich_von_Schack
+description: ''
+gutenberg_issued: '2011-08-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37067'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Spanish drama -- History and criticism'
+title: Historia de la literatura y del arte dramático en España, tomo IV
+url: http://www.gutenberg.org/ebooks/37067
